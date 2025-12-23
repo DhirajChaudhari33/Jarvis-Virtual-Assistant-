@@ -24,12 +24,12 @@ Speech recognition and voice modules (like speech_recognition, pyttsx3, etc.)
 Custom modules and automation scripts
 
 ## 📁 Project Structure
-├── .gitignore
-├── LICENSE
-├── README.md
-├── main.py
-├── musicLibrary.py
-└── other modules & assets
+    ├── .gitignore
+    ├── LICENSE
+    ├── README.md
+    ├── main.py
+    ├── musicLibrary.py
+    └── other modules & assets
 
 ## 🧩 Installation
 
