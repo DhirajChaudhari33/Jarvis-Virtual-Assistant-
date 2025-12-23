@@ -35,30 +35,30 @@ Custom modules and automation scripts
 
 ### 1.Clone the repository:
 
-git clone https://github.com/DhirajChaudhari33/Jarvis-Virtual-Assistant-.git
+    git clone https://github.com/DhirajChaudhari33/Jarvis-Virtual-Assistant-.git
 
 
 ### 2.Navigate into the project:
 
-cd Jarvis-Virtual-Assistant-
+    cd Jarvis-Virtual-Assistant-
 
 
 ### 3.Create a virtual environment (optional but recommended):
 
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+    python -m venv venv
+    source venv/bin/activate   # macOS/Linux
+    venv\Scripts\activate      # Windows
 
-
+    
 ### 4.Install dependencies (if any):
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## ▶️ Run the Assistant
 
 ### Run Jarvis using:
 
-python main.py
+    python main.py
 
 
 Speak or type your commands and Jarvis will help automate tasks!
